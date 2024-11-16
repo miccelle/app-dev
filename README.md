@@ -1,2 +1,3 @@
 # app-dev
 My first repository
+***The Wind Rises** is a visually stunning **Studio Ghibli** film directed by Hayao Miyazaki, blending history, romance, and a bittersweet love of aviation. It tells the story of Jiro Horikoshi, a young Japanese engineer who dreams of designing beautiful airplanes despite the challenges and tragedies of his time. As Jiro's career unfolds, he meets and falls in love with Naoko, a woman who inspires him but also faces her own struggles with illness. The film captures the tension between pursuing one’s dreams and dealing with the harsh realities of war and loss. Through breathtaking animation and a gentle, reflective pace, The Wind Rises invites viewers to consider the beauty and fragility of life and love.*
